@@ -1,0 +1,1 @@
+var search_data = {"index":{"searchIndex":["myclass","method_name()"],"longSearchIndex":["myclass","myclass#method_name()"],"info":[["MyClass","","MyClass.html","","<p>RDoc Example\n<p>This is a heading\n<p>First item in an outer list\n"],["method_name","MyClass","MyClass.html#method-i-method_name","()",""]]}}
